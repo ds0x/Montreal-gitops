@@ -115,4 +115,4 @@ labels:
   - name: Underlings 
     description: Hosts that are not part of the C-Suite.
     label_membership_type: manual
-    host:
+    hosts:
